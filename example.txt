@@ -1,0 +1,347 @@
+#statergy
+
+Perfect choice 💪
+Here is a **30-DAY PYTHON PLACEMENT + INTERVIEW MASTER PLAN** designed **exactly for your situation** — weak basics → strong logic → interview confidence.
+
+This plan is **REALISTIC**, **daily-practice focused**, and **placement-oriented**.
+
+---
+
+# 🗓️ 30-DAY PYTHON PLACEMENT STUDY PLAN
+
+⏰ **Daily time needed:** 1.5 – 2 hours
+📌 **Rule:** Code every day (no skipping)
+
+---
+
+## 🔰 WEEK 1 — STRONG BASICS (FOUNDATION)
+
+### 📅 Day 1 – Python Basics
+
+* Variables, data types
+* Input / Output
+* Type casting
+
+**Practice**
+
+* Add two numbers
+* Swap two numbers
+* Area of circle
+
+---
+
+### 📅 Day 2 – Operators & Conditions
+
+* Arithmetic, relational, logical
+* if / elif / else
+
+**Practice**
+
+* Even or odd
+* Largest of 3 numbers
+* Positive / negative / zero
+
+---
+
+### 📅 Day 3 – Loops (Core Logic)
+
+* for loop
+* while loop
+* break / continue
+
+**Practice**
+
+* Print 1–100
+* Sum of numbers
+* Multiplication table
+
+---
+
+### 📅 Day 4 – Number Programs
+
+* Factorial
+* Fibonacci
+* Prime number
+* Armstrong
+
+**Interview Focus**
+
+* Logic explanation
+* Edge cases
+
+---
+
+### 📅 Day 5 – Patterns (Logic Booster)
+
+```
+*
+* *
+* * *
+```
+
+```
+1
+12
+123
+```
+
+**Why important?**
+
+* Tests loop mastery
+
+---
+
+### 📅 Day 6 – Strings Basics
+
+* Indexing
+* Slicing
+* String methods
+
+**Practice**
+
+* Reverse string
+* Palindrome
+* Count vowels
+
+---
+
+### 📅 Day 7 – Weekly Revision + Mock
+
+* Revise Days 1–6
+* Explain logic aloud
+* Write code without reference
+
+---
+
+## 🔥 WEEK 2 — DATA STRUCTURES (MOST IMPORTANT)
+
+### 📅 Day 8 – Lists
+
+* append, remove, pop
+* slicing
+
+**Practice**
+
+* Largest element
+* Sum of list
+* Remove duplicates
+
+---
+
+### 📅 Day 9 – List Logic Problems
+
+* Second largest
+* Move zeros
+* Rotate list
+
+---
+
+### 📅 Day 10 – Tuples & Sets
+
+* Tuple immutability
+* Set operations
+
+**Practice**
+
+* Tuple reverse
+* Common elements
+* Remove duplicates using set
+
+---
+
+### 📅 Day 11 – Dictionary (CRITICAL)
+
+* Key-value
+* get(), items()
+
+**Practice**
+
+* Frequency count
+* Student marks system
+
+---
+
+### 📅 Day 12 – Dictionary Advanced
+
+* Sorting dict
+* Nested dict
+
+**Practice**
+
+* Most frequent word
+* Character frequency
+
+---
+
+### 📅 Day 13 – Mixed Problems
+
+* String + list + dict
+
+**Practice**
+
+* Anagrams
+* Word frequency
+* First non-repeating character
+
+---
+
+### 📅 Day 14 – WEEK 2 MOCK TEST
+
+* Solve 10 problems
+* Time yourself (1.5 hrs)
+
+---
+
+## 🚀 WEEK 3 — INTERVIEW LOGIC & TRICKY PROBLEMS
+
+### 📅 Day 15 – Recursion
+
+* Factorial
+* Fibonacci
+* Reverse list
+
+---
+
+### 📅 Day 16 – Functions
+
+* Arguments
+* Return values
+
+**Practice**
+
+* Calculator
+* Prime checker function
+
+---
+
+### 📅 Day 17 – Lambda, map, filter
+
+```python
+list(map(lambda x: x*x, [1,2,3]))
+```
+
+---
+
+### 📅 Day 18 – Exception Handling
+
+* try / except
+
+**Practice**
+
+* Divide by zero
+* Input validation
+
+---
+
+### 📅 Day 19 – File Handling
+
+* Read / Write files
+
+---
+
+### 📅 Day 20 – OOPS (VERY IMPORTANT)
+
+* Class
+* Object
+* Constructor
+* Inheritance
+
+**Interview Questions**
+
+* What is self?
+* Why OOPS?
+
+---
+
+### 📅 Day 21 – WEEK 3 MOCK
+
+* 15 logic problems
+* Explain solutions verbally
+
+---
+
+## 🧠 WEEK 4 — PLACEMENT & INTERVIEW READY
+
+### 📅 Day 22 – Time & Space Complexity
+
+* O(1), O(n), O(n²)
+* Why matters in interviews
+
+---
+
+### 📅 Day 23 – Common Interview Questions
+
+* Mutable vs Immutable
+* List vs Tuple
+* Dict vs Set
+
+---
+
+### 📅 Day 24 – Coding Round Practice
+
+* Solve without Google
+* Clean code
+
+---
+
+### 📅 Day 25 – Company-Level Problems
+
+* TCS / Infosys / Wipro logic
+* Accenture style problems
+
+---
+
+### 📅 Day 26 – Debugging Skills
+
+* Find error
+* Fix logic
+
+---
+
+### 📅 Day 27 – Mock Technical Interview
+
+* Explain code
+* Dry run logic
+
+---
+
+### 📅 Day 28 – Resume-Based Questions
+
+* Explain your Python projects
+* Explain logic you used
+
+---
+
+### 📅 Day 29 – FINAL REVISION
+
+* Weak areas
+* Rewrite important programs
+
+---
+
+### 📅 Day 30 – CONFIDENCE DAY
+
+* Revise notes
+* Light practice
+* Stay calm
+
+---
+
+## 🏆 HOW YOU WILL FEEL AFTER 30 DAYS
+
+✅ Strong basics
+✅ Can solve logic problems
+✅ Can explain code
+✅ Interview ready
+
+---
+
+## 🔥 NEXT STEP (VERY IMPORTANT)
+
+Do you want me to:
+1️⃣ Give **daily problems for Day 1–7**
+2️⃣ Conduct a **mock Python interview**
+3️⃣ Create a **revision cheat sheet**
+4️⃣ Provide **company-wise Python questions**
+
+Reply with the number — we’ll continue step-by-step 🚀
